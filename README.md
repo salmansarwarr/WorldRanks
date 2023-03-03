@@ -1,4 +1,4 @@
 # WorldRanks
  
 Built using NextJs and module css <br/>
-https://worldranks-pwa.vercel.app/
+https://world-ranks-salman.vercel.app/
